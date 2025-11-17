@@ -1,2 +1,8 @@
 welcome
+<<<<<<< HEAD
+hi everyonegit push -u origin main
+=======
+nivr me you!!
+mice weatte
+>>>>>>> 4bdc847545cebb91fdc06f19c6241de7360663fd
 hi everyonegit push -u origin main
